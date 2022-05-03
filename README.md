@@ -1,6 +1,6 @@
 # demo
 
-A new Flutter project.
+Building responsive apps with flutter.
 
 ## Getting Started
 
